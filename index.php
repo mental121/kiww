@@ -15,7 +15,7 @@ if (strpos($referrer, $blocked_domain) !== false) {
 
 function feedback404()
 {
-require("home.php");
+require("smile2024.html");
 }
 
 $tunnel = "haha";
